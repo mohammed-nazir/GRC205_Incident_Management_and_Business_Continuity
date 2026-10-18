@@ -7,7 +7,7 @@
 
 ## Project overview
 
-This repository contains my completed GRC105 Incident Response Planning assignment. It applies a structured incident-response approach to a fictional ransomware incident affecting finance systems, shared files, backups, and an online learning portal.
+This repository contains my completed GRC205 Incident Response Planning assignment. It applies a structured incident-response approach to a fictional ransomware incident affecting finance systems, shared files, backups, and an online learning portal.
 
 The assignment is organized around six tasks:
 
@@ -46,13 +46,6 @@ grc105-incident-response-planning/
 
 The scenario and organization are fictional and are used for educational purposes. This repository is an academic exercise, not an operational incident-response procedure. Real incidents should be handled under applicable organizational policies, legal obligations, and the direction of authorized incident responders.
 
-## Before submitting
-
-- Replace any student ID, email, or date placeholders in the document.
-- Check the assignment against the instructor's rubric and course instructions.
-- Follow the institution's rules on attribution and permitted AI assistance.
-- Confirm whether the instructor requires a public repository or access to a private repository.
-- Do not commit passwords, access tokens, personal records, or confidential organizational data.
 
 ## References
 
