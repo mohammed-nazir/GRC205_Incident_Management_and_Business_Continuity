@@ -1,0 +1,16 @@
+# Microsoft Word temporary/lock files
+~$*.docx
+*.tmp
+*.bak
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local environment files
+.env
+.env.*
+*.pem
+*.key
+secrets/
