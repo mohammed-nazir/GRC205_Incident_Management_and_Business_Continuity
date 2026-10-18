@@ -1,6 +1,6 @@
-# GRC105: Incident Response Planning
+# GRC205: Incident Response Planning
 
-**Course:** GRC105 — Incident Response Planning  
+**Course:** GRC205 — Incident Response Planning  
 **Scenario:** Northbridge Skills Institute — suspected ransomware incident  
 **Author:** Mohammed Nazir  
 **Status:** Prepared for academic review
