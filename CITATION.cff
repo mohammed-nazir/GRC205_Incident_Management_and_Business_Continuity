@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it using the metadata below."
+title: "Incident Response Planning: Suspected Ransomware Incident at Northbridge Skills Institute"
+type: report
+authors:
+  - family-names: Nazir
+    given-names: Mohammed
+version: 1.0.0
+date-released: 2026-10-20
+license: LicenseRef-Proprietary-Educational
+keywords:
+  - incident response
+  - ransomware
+  - digital forensics
+  - business continuity
+  - governance risk and compliance
+  - NIST SP 800-61
+institution:
+  name: International Cybersecurity and Digital Forensics Academy
