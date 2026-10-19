@@ -14,4 +14,4 @@ The assignment uses the course assignment brief and teaching slides as its prima
 
 ## Attribution note
 
-Use the citation and referencing format required by the course. Verify that the final assignment accurately reflects the course materials and that all external sources are acknowledged as required.
+I Use the citation and referencing format required by the course. I also Verify that the final assignment accurately reflects the course materials and that all external sources are acknowledged as required.
