@@ -12,7 +12,7 @@ Submission_date: "20 October 2026"
 
 ## Suspected Ransomware Incident at Northbridge Skills Institute
 
-[![Course](https://img.shields.io/badge/Course-GRC105-1F4E79)](#document-information)
+[![Course](https://img.shields.io/badge/Course-GRC205-1F4E79)](#document-information)
 [![Domain](https://img.shields.io/badge/Domain-GRC%20%7C%20Incident%20Response-8B1E3F)](#executive-summary)
 [![Framework](https://img.shields.io/badge/Framework-NIST%20SP%20800--61%20Rev.%203-2E7D32)](#references)
 [![Status](https://img.shields.io/badge/Status-Academic%20Submission-6F42C1)](#document-information)
