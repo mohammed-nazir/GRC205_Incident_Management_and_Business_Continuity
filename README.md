@@ -21,7 +21,7 @@ The assignment is organized around six tasks:
 ## Repository structure
 
 ```text
-grc105-incident-response-planning/
+grc205-incident-response-planning/
 ├── README.md
 ├── .gitignore
 ├── docs/
