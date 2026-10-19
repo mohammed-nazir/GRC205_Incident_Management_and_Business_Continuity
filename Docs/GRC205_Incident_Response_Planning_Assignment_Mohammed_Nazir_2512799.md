@@ -1,11 +1,7 @@
 ---
 Title: "Incident Response Planning: Suspected Ransomware Incident at Northbridge Skills Institute"
 Author: "Mohammed Nazir"
-Student_id: "2025/GRC/2512799"
-Course: "GRC105 — Incident Management and Business Continuity"
-Institution: "International Cybersecurity and Digital Forensics Academy"
-Assessment: "Week 20"
-Submission_date: "20 October 2026"
+
 ---
 
 # Incident Response Planning
