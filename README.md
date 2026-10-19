@@ -26,8 +26,7 @@ grc205-incident-response-planning/
 ├── .gitignore
 ├── docs/
 │   └── GRC105_Incident_Response_Planning_Assignment.docx
-└── references/
-    ├── README.md
+└── references
     └── SOURCES.md
 ```
 
