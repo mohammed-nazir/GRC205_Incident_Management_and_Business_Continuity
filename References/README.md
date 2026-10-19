@@ -1,0 +1,1 @@
+This folder contains reference notes and source links. Add further course-approved supporting materials here only when permitted. Do not upload copyrighted course files or private/confidential data without permission.
