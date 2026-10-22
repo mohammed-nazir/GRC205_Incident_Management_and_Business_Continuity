@@ -1,9 +1,7 @@
 ---
-
 # Business Continuity and Disaster Recovery Plan
 
 ## Northbridge Skills Institute: Flood and Power-Failure Scenario
-
 [![Course](https://img.shields.io/badge/Course-GRC205-17365D)](#document-information)
 [![Domain](https://img.shields.io/badge/Domain-BC%2FDR-8B1E3F)](#executive-summary)
 [![NIST](https://img.shields.io/badge/NIST-SP%20800--34%20Rev.%201-2E7D32)](#references)
