@@ -1,4 +1,3 @@
----
 # Business Continuity and Disaster Recovery Plan
 
 ## Northbridge Skills Institute: Flood and Power-Failure Scenario
