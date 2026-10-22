@@ -11,7 +11,7 @@
 A structured Business Continuity and Disaster Recovery (BC/DR) project for a simulated 72-hour site outage caused by flooding and power failure at Northbridge Skills Institute. The analysis connects business impact, recovery objectives, backup integrity, continuity workarounds, technical recovery sequencing, governance, testing, and measurable improvement.
 
 > [!IMPORTANT]
-> This repository documents an academic scenario. It is not a production continuity plan, evidence of tested supplier capability, or a claim of ISO 22301 certification.
+> This repository documents is an academic scenario. It is not a production continuity plan, evidence of tested supplier capability, or a claim of ISO 22301 certification.
 
 ## Project Information
 
@@ -196,7 +196,7 @@ This academic project aligns its structure with:
 - **ISO 22301:2019/Amd 1:2024**, considered in relation to climate-related organisational context.
 
 > [!NOTE]
-> The standards mapping is educational. Organisations should obtain qualified assurance before claiming conformity or certification.
+> The standards mapping is for educational Purposes. Organisations should obtain qualified assurance before claiming conformity or certification.
 
 ## Repository Structure
 
@@ -204,16 +204,10 @@ This academic project aligns its structure with:
 .
 ├── README.md
 └── docs/
-    └── GRC205_BCDR_Assignment_Mohammed_Nazir_2512799.docx
+   └── GRC205_BCDR_Assignment_Mohammed_Nazir_2512799.docx
+|__References
+
 ```
-
-## How to Use This Repository
-
-1. Place the original assignment in the `docs/` directory.
-2. Use this README as the repository landing page.
-3. Keep scenario assumptions clearly separated from tested operational capability.
-4. Record material revisions in Git commits or a dedicated changelog.
-5. Do not add real credentials, personal data, sensitive infrastructure details, or unredacted incident evidence.
 
 ## Academic Use Notice
 
@@ -227,8 +221,4 @@ Student ID: 2025/GRC/2512799
 
 ## References
 
-1. ICDFA, *Business Continuity and Disaster Recovery*, GRC205 Week 21 teaching slides.
-2. ICDFA, *GRC205 Incident Management and Business Continuity: Business Continuity and Disaster Recovery Assignment*.
-3. [NIST SP 800-34 Rev. 1: Contingency Planning Guide for Federal Information Systems](https://csrc.nist.gov/pubs/sp/800/34/r1/final).
-4. [ISO 22301:2019: Security and resilience — Business continuity management systems](https://www.iso.org/standard/75106.html).
-5. [ISO 22301:2019/Amd 1:2024: Climate action changes](https://www.iso.org/).
+See [`references/SOURCES.md`](references/SOURCES.md) for the principal public guidance listed for the assignment.
