@@ -1,12 +1,4 @@
 ---
-title: "Business Continuity and Disaster Recovery: Flood and Power-Failure Scenario"
-author: "Mohammed Nazir"
-student_id: "2025/GRC/2512799"
-course: "GRC205 — Incident Management and Business Continuity"
-institution: "International Cybersecurity and Digital Forensics Academy"
-submission_date: "23 October 2026"
-status: "Academic submission"
----
 
 # Business Continuity and Disaster Recovery Plan
 
@@ -330,17 +322,3 @@ Target Level 3 — Defined (Standardized) within 12 months: approved plans for a
 ## Conclusion
 
 Northbridge should coordinate business continuity and disaster recovery because restoring technology is only one part of sustaining acceptable services. F1’s 11:00 deadline drives the first decision; the modelled warm-site schedule restores LMS01 at 11:45, so an approved workaround is essential. Warm plus protected backups and testing is affordable at NGN 2.1 million but leaves explicit RTO/RPO gaps. Independent backups, validated restore chains, disciplined manual controls, clear accountability and regular exercises are necessary to make the plan operational.
-
-## References
-
-1.  ICDFA. Business Continuity and Disaster Recovery. GRC205, Week 21 teaching slides, slides 1–15.
-
-2.  ICDFA. GRC205 Incident Management and Business Continuity Week 21: Business Continuity and Disaster Recovery Assignment.
-
-3.  National Institute of Standards and Technology (2010). Contingency Planning Guide for Federal Information Systems, SP 800-34 Rev. 1. <https://csrc.nist.gov/pubs/sp/800/34/r1/final>.
-
-4.  International Organization for Standardization (2019). ISO 22301:2019 Security and resilience — Business continuity management systems — Requirements.
-
-<https://www.iso.org/standard/75106.html>
-
-5.  International Organization for Standardization (2024). ISO 22301:2019/Amd 1:2024 — Climate action changes. <https://www.iso.org/>
