@@ -13,7 +13,7 @@
 
 | Field | Detail |
 |---|---|
-| **Student** | Mohammed Nazir |
+| **Student Name** | Mohammed Nazir |
 | **Student ID** | 2025/GRC/2512799 |
 | **Institution** | International Cybersecurity and Digital Forensics Academy |
 | **Course** | GRC205 — Incident Management and Business Continuity |
